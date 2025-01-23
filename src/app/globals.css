@@ -2,20 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+.custom-img{
+  background-image:url('../../public/background-1.jpeg')
 }
-
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+.background1{
+  background-image:url('../../public/background.4.jpeg')
+}
+.background2{
+  background-image:url('../../public/background5.jpeg')
 }

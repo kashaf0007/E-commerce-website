@@ -17,7 +17,7 @@ const Navbar = () => {
       </a>
       <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base  justify-center ">
         <Link href="/" className="mr-5 text-black hover:text-gray-500 font-bold text-2xl">Home</Link>
-        <Link href="/" className="mr-5  text-black hover:text-gray-500 font-bold text-2xl">Products</Link>
+        <Link href="/Product" className="mr-5  text-black hover:text-gray-500 font-bold text-2xl">Products</Link>
         <Link href="/About" className="mr-5  text-black hover:text-gray-500 font-bold text-2xl">About</Link>
         <Link href="/Contact" className="mr-5  text-black hover:text-gray-500 font-bold text-2xl">Contact</Link>
       </nav>

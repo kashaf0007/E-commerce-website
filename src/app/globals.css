@@ -2,13 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
-
 .custom-img{
-  background-image:url('../../public/background-1.jpeg')
-}
-.background1{
-  background-image:url('../../public/background.4.jpeg')
-}
-.background2{
-  background-image:url('../../public/background5.jpeg')
-}
+    background-image:url('../../public/background-1.jpeg')
+  }
+  .background1{
+    background-image:url('../../public/background.4.jpeg')
+  }
+  .background2{
+    background-image:url('../../public/background5.jpeg')
+  }
